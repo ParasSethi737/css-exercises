@@ -3,11 +3,11 @@ p.odd {
     font-family: Verdana,"DejaVu Sans", sans-serif;
 }
 #two {
-    color: blue;
+    color: hsl(240, 82%, 46%);
     font-size: 36px;
 }
 #four {
-    background-color: lightgreen;
+    background-color: #0cd620;
     font-size: 24px;
     font-weight: bold;
 }
